@@ -1,3 +1,7 @@
+Encryption / Decryption Helper Tool
+====================================
+Uses jasypt to encrypt and decrypt values.
+
 To encrypt a value, POST to /encrypt with a body like this:
 
 {
